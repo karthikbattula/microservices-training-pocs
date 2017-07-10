@@ -15,9 +15,3 @@ This module is a Spring Cloud config server used for simplifying environment man
 #### Remote repo links for Configurations:
 * https://github.com/karthikbattula/pluralsight-spring-cloudconfig-sample
 * https://github.com/rseroter/pluralsight-spring-cloudconfig-wa-tolls-perf
-#### POC developed By:
-* Senthil Kumar
-* Karthik Battula
-* Abhilash Kokkonda
-* Rani Kavin
-* Athinarayanan
