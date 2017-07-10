@@ -9,9 +9,3 @@ Spring Cloud config client is a Microservice that will consume values from our S
 * spring-boot-starter-thymeleaf
 * spring-boot-starter-web
 * spring-boot-actuator
-#### POC developed By:
-* Senthil Kumar
-* Karthik Battula
-* Abhilash Kokkonda
-* Rani Kavin
-* Athinarayanan
